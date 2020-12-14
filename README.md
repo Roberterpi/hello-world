@@ -1,2 +1,2 @@
 # hello-world
-Prima treaba pe Github. Invat Css acum.
+Just finished learning HTML and started CSS and Javascript.
